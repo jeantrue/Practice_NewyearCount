@@ -1,0 +1,27 @@
+body {
+  margin: 10%;
+  background-color: black;
+  background-size: cover;
+
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  align-items: center;
+
+}
+
+h1 {
+  font-size: 3rem;
+  width: 100%;
+}
+
+.countdown {
+  display: inline-block;
+  font-size: 1.7rem;
+  padding: 1rem;
+}
+
+.countdown span {
+  display: block;
+  font-size: 3rem;
+}
